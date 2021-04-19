@@ -1,0 +1,12 @@
+# Mihailovily default blocklist
+
+
+
+127.0.0.1  localhost
+
+::1  localhost
+
+# [rt.com]
+
+127.0.0.1 russian.rt.com
+127.0.0.1 rt.com
